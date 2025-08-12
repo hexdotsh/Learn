@@ -1,4 +1,4 @@
-##HEXLEY
+## HEXLEY
 
        .--.
       |o_o |
@@ -11,18 +11,15 @@
 
 ## AngelOne-Clone 
 
-##Preview 
+## Preview 
 ![img src](https://raw.githubusercontent.com/hexdotsh/Learn/refs/heads/main/Angelone-clone/assets/Preview.png)
 ## Tailwind_Projects 
-
-##ChitChat
-
+## ChitChat
 ![img src](https://raw.githubusercontent.com/hexdotsh/Learn/refs/heads/main/Tailwind_Projects/Chat/assets/Preview.png)
 ##Responsive-Grid
-
 ![img src](https://raw.githubusercontent.com/hexdotsh/Learn/refs/heads/main/Tailwind_Projects/Grid/assets/Preview.png)
-##Profile
+## Profile
 ![img src]()
 ## Zerodha-Clone 
-##Preview 
+## Preview 
 ![img src]()
